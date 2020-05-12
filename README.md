@@ -1,7 +1,7 @@
 # ChatApp
 Hello Everyone, I am going to build a ChatApp.
 
-The Features of This FirebaseSocialMedia Application is :
+The Features of This ChatApp Application is :
 
 1. User Registration and login.
 2. Recover password.
