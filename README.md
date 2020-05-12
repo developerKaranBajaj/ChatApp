@@ -1,5 +1,5 @@
 # ChatApp
-Hello Everyone, I am going to build a Social media app.
+Hello Everyone, I am going to build a ChatApp.
 
 The Features of This FirebaseSocialMedia Application is :
 
