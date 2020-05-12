@@ -7,5 +7,5 @@ The Features of This FirebaseSocialMedia Application is :
 2. Recover password.
 3. Edit Profile image.
 4. Chat list.
-5. Online/Offline, typing, seen/delivered like features.
+5. Online/Offline, typing, seen/delivered like features
   and many more.
